@@ -10,5 +10,5 @@ https://youtu.be/BIS_5-hv0zk
 # Link para Landing Page para Parceiros e Patrocinadores
 https://kreative.work/parae/front/pages/
 
-#link para Gestão de Pontos de Parada pelos patrocinadores
+# link para Gestão de Pontos de Parada pelos patrocinadores
 https://kreative.work/parae/apppatrocinio/pages/patrocinador/
